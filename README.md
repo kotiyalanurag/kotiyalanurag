@@ -1,7 +1,7 @@
 Hi, I'm Anurag.
 ======================================================================================================================================
 
-I am currently studying M. Sc Media Informatics at RWTH Aachen University. And I have been living in Germany for over a year now.
+I am currently studying M. Sc. Media Informatics at RWTH Aachen University. And I have been living in Germany for over two years now. Here's a little information about me.
 ----------------------------------------------
 
 * 🌍  I'm based in Aachen
