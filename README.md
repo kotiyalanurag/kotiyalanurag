@@ -1,9 +1,12 @@
-# About me
+# 👋🏻 About me
 
-<p>I am a full-time master student at RWTH Aachen University in Germany where I study computer science. I am currently working on my master thesis at CAISA Lab
-which is situated in Bonn, Germany. I am interested in data science, machine learning, vision and natural language processing tasks.</p>
+<p>Hi there! I'm a full-time master's student at RWTH Aachen University, where I study Computer Science. Currently, I'm working on my thesis at CAISA Lab which is situated in Bonn, Germany.
 
-# 🛠 Primary Tech Stack 
+My interests span across data science, machine learning, computer vision, and natural language processing. I'm passionate about leveraging new technologies to solve real-world problems and am always eager to learn and explore new things in the field.
+
+Feel free to check out my projects and you can reach out to me on kotiyalanurag at gmail.</p>
+
+# 🛠 Tech stack 
 
 ### Programming Languages
 
@@ -13,7 +16,7 @@ which is situated in Bonn, Germany. I am interested in data science, machine lea
 
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-239120?style=for-the-badge&logo=plotly&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 
 ### Machine Learning
@@ -21,11 +24,14 @@ which is situated in Bonn, Germany. I am interested in data science, machine lea
 ![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/huggingface-lightyellow?style=for-the-badge&logo=huggingface&logoColor=%23FFD21E)
+![LangChain](https://img.shields.io/badge/LangChain-grey?style=for-the-badge&logo=LangChain&logoColor=white)
 
 ### REST API
 
 ![Fast API](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
-![Streamlit App](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-blue?style=for-the-badge&logo=flask&logoColor=%23FFD21E)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 
 ### MLOPs
 
