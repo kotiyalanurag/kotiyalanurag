@@ -1,3 +1,8 @@
+# About me
+
+<p>I am a full-time master student at RWTH Aachen University in Germany where I study computer science. I am currently working on my master thesis at CAISA Lab
+which is situated in Bonn, Germany. I am interested in data science, machine learning, vision and natural language processing tasks.</p>
+
 # 🛠 Primary Tech Stack 
 
 ### Programming Languages
@@ -36,8 +41,3 @@
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostGres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-# About me
-
-<p>I am a full-time master student at RWTH Aachen University in Germany where I study computer science. I am currently working on my master thesis at CAISA Lab
-which is situated in Bonn, Germany. I am interested in data science, machine learning, vision and natural language processing tasks.</p>
