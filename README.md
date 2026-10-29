@@ -1,10 +1,10 @@
 # 👋🏻 About me
 
-<p>Hi there! I'm a full-time master's student at RWTH Aachen University, where I study Computer Science. Currently, I'm working on my thesis at CAISA Lab which is situated in Bonn, Germany.
+<p>Hi there! I'm a professional Data Scientist with over 3 years of industry experience. I graduated from RWTH Aachen University with a master's degree in Computer Science. 
+  
+My interests span data science, machine learning, computer vision, and natural language processing. I'm passionate about leveraging new technologies to solve real-world problems and am always eager to learn and explore new things in the field.
 
-My interests span across data science, machine learning, computer vision, and natural language processing. I'm passionate about leveraging new technologies to solve real-world problems and am always eager to learn and explore new things in the field.
-
-Feel free to check out my projects and you can reach out to me on kotiyalanurag at gmail.</p>
+Feel free to check out my projects, and you can reach out to me at kotiyalanurag@gmail.</p>
 
 # 🛠 Tech stack 
 
